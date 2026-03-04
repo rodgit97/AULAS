@@ -1,3 +1,4 @@
+/*
 function factorial(number) {
     var fact=1;
     for (i = 1; i <= number; i++) {
@@ -7,6 +8,8 @@ function factorial(number) {
     return fact;
 }
 
+factorial(5);
+*/
 function main() {
 
     var notaP1 = 15;
